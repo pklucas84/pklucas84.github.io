@@ -24,7 +24,8 @@ body {
 #page_title {
     font-family: 'Libre Baskerville', serif;
     text-align: center;
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #title_header {

@@ -110,6 +110,10 @@ h2 {
     text-align: center;
 }
 
+#about_pic {
+    width:320px;
+}
+
 #gallery {
     padding-top: 20px;
 }

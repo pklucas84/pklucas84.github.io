@@ -106,9 +106,8 @@ h2 {
     margin-top: 10px;
 }
 
-#about_pic {
-    padding-right: 50px;
-    padding-left: 50px;
+#about-container {
+    text-align: center;
 }
 
 #gallery {
